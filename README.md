@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+I'm studying Front-end Development at Noroff Oslo, Norway.
+
+Currently finishing the first year of two.
+
+🌱 In the first year I have learned, amongst others, Design principles, HTML, CSS and JavaScript
+<br>
+🔭 Next year, frameworks++
+
+📫 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hreinn-gylfason-b9a48521a/)
+
+
+
+
+
+
+
 <!--
 **baresi687/baresi687** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
