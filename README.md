@@ -6,7 +6,7 @@ Currently finishing the first year of two.
 
 🌱 In the first year I have learned, amongst others, Design principles, HTML, CSS and JavaScript
 <br>
-🔭 Next year, frameworks++
+🔭 Next year, Frameworks++
 
 📫 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hreinn-gylfason-b9a48521a/)
 
