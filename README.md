@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm studying Front-end Development at Noroff Oslo, Norway.
+I'm studying Front-end Development at Noroff Vocational School Oslo.
 
-Currently finishing the first year of two.
+Currently in my second year of two
 
-🌱 In the first year I have learned, amongst others, Design principles, HTML, CSS and JavaScript
+🌱 In the first year I have learned amongst others, Design principles, HTML, CSS and JavaScript
 <br>
-🔭 Next year, Frameworks++
+🔭 This year, CSS and JS Frameworks, Workflow and Development Platforms
 
 📫 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hreinn-gylfason-b9a48521a/)
 
