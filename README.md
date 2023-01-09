@@ -2,7 +2,9 @@
 
 I'm studying Front-end Development at Noroff Vocational School Oslo.
 
-Currently in my second year of two. Finishing in spring 2023.
+Currently in my second year of two.
+<br>
+Finishing in spring 2023.
 
 🌱 In the first year I have learned amongst others, Design principles, HTML, CSS and JavaScript
 <br>
