@@ -12,7 +12,7 @@ Finishing in spring 2023.
 
 📫 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hreinn-gylfason-b9a48521a/)
 
-![Baresi's GitHub stats](https://github-readme-stats.vercel.app/api?username=baresi687)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=baresi687&show_icons=true&theme=merko)
 
 
 
