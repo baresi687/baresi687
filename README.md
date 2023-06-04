@@ -10,7 +10,8 @@ Finishing in spring 2023.
 <br>
 🔭 This year, CSS and JS Frameworks, Workflow and Development Platforms
 
-📫 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hreinn-gylfason-b9a48521a/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hreinn-gylfason-b9a48521a/)
+⚡[Portfolio](https://baresi687.github.io/)
 
 [![baresi687's GitHub stats](https://github-readme-stats.vercel.app/api?username=baresi687)](https://github.com/anuraghazra/github-readme-stats)
 
