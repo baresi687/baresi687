@@ -1,14 +1,11 @@
 ### Hi there 👋
 
-I'm studying Front-end Development at Noroff Vocational School Oslo.
-
-Currently in my second year of two.
-<br>
-Finishing in spring 2023.
+ I'm a recently graduated student from a two-year study of Frontend development at [Noroff](https://www.noroff.no/en/studies/vocational-school/front-end-development) Oslo.
+        
 
 🌱 In the first year I have learned amongst others, Design principles, HTML, CSS and JavaScript
 <br>
-🔭 This year, CSS and JS Frameworks, Workflow and Development Platforms
+🔭 In year two, CSS and JS Frameworks, Workflow and Development Platforms
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hreinn-gylfason-b9a48521a/)
 ⚡[Portfolio](https://baresi687.github.io/)
