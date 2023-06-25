@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- I'm a recently graduated student from a two-year study of Frontend development at [Noroff](https://www.noroff.no/en/studies/vocational-school/front-end-development) Oslo.
+ I'm a recently graduated student from a two-year study of Front-end development at [Noroff](https://www.noroff.no/en/studies/vocational-school/front-end-development) Oslo.
         
 
 🌱 In the first year I have learned amongst others, Design principles, HTML, CSS and JavaScript
