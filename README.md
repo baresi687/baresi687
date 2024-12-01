@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-🔗[Portfolio page](https://baresi687.github.io/)
+🔗[Portfolio](https://baresi687.github.io/)
 <br>
-🔗[Linkedin profile](https://www.linkedin.com/in/hreinn-gylfason-b9a48521a/)
+🔗[Linkedin](https://www.linkedin.com/in/hreinn-gylfason-b9a48521a/)
 
 [![baresi687's GitHub stats](https://github-readme-stats.vercel.app/api?username=baresi687)](https://github.com/anuraghazra/github-readme-stats)
 
