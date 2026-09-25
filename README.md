@@ -4,8 +4,6 @@
 &nbsp;
 🔗[Portfolio](https://baresi687.github.io/)
 
-[![baresi687's GitHub stats](https://github-readme-stats.vercel.app/api?username=baresi687)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **baresi687/baresi687** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
